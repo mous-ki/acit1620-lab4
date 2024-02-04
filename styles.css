@@ -1,4 +1,39 @@
 h1 {
-    color: red;
-  }
-  
+    color:white
+    
+}
+h1 {
+    background-color: rgb(4, 42, 95);
+    text-align:center
+}
+h1 {
+    padding: 50px
+}
+ul {
+    display: flex
+}
+ul {
+    justify-content:space-around
+}
+button {
+    color: rgb(52, 81, 195)
+}
+button {
+    border-color: black
+}
+button {
+    background-color: white;
+    padding: 10px 20px
+}
+button a:hover {
+    font-size-adjust:calc(+20px)
+}
+footer {
+    text-align:center
+}
+p {
+    color: rgb(4, 42, 95);
+}
+h2 {
+    color: rgb(52, 81, 195)
+}
