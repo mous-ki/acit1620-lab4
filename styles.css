@@ -13,7 +13,7 @@ ul {
     display: flex
 }
 ul {
-    justify-content:space-around
+    justify-content:space-between
 }
 button {
     color: rgb(52, 81, 195)
