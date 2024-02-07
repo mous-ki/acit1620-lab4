@@ -25,8 +25,6 @@ button {
     background-color: white;
     padding: 10px 20px
 }
-button a:hover {
-    font-size-adjust:calc(+20px)
 }
 footer {
     text-align:center
@@ -36,4 +34,12 @@ p {
 }
 h2 {
     color: rgb(52, 81, 195)
+}
+button {
+    font-size: medium;
+}
+button:hover {
+    background-color: rgb(4, 42, 95);
+    color: white;
+    size-adjust:var(100px);
 }
